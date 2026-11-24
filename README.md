@@ -4,6 +4,9 @@ How many labeled OCT scans does a small open vision-language model need to match
 The task: given one OCT B-scan, produce a structured JSON grading report (diagnosis plus the findings behind it).
 
 ## Public data only used for this project
+https://zenodo.org/records/10839556 OCTDL (2024) Dataset.
++ OCTDL.zip
++ OCTDT_labels.csv
 
 ## Hardware, OS, Software
 RTX 2070
